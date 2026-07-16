@@ -23,5 +23,5 @@ language = 'en'
 html_title = "Cheap Car Insurance 2026"
 
 # Sitemap
-html_baseurl = 
+html_baseurl = html_baseurl = "https://cheap-car-insurance-cheap-car-insurance.readthedocs-hosted.com/en/latest/"
 sitemap_url_scheme = "{link}"
