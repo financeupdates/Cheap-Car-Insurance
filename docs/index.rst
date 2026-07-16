@@ -3,7 +3,7 @@ Cheap Car Insurance Quotes (2026): Compare the Best Rates
 .. image:: _static/login-button.png
    :alt: Log In Now
    :align: center
-   :target: 
+   :target: https://cheap-car-insurance-cheap-car-insurance.readthedocs-hosted.com/en/latest/
    :width: 350px
 
 Finding cheap car insurance quotes starts with comparing prices from multiple insurers. In 2026, **GEICO, Travelers, State Farm, USAA, and Erie Insurance** are among the companies that frequently offer competitive rates. The cheapest option depends on your state, driving history, vehicle, and coverage level, so comparing quotes is the best way to find a lower premium.
